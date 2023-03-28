@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "WEBAPPS MOBILITY Team => War file sucessfully deployed on QA server 27 march_v1";
+        return "WEBAPPS MOBILITY Team => War file sucessfully deployed on QA server 27 march_v2";
     }
 
 }
